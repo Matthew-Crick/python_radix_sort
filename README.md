@@ -1,2 +1,2 @@
 # radix_sort
-this is my first *radix* sort implementation it uses another language markdown
+this is my _first_ *radix* sort implementation it uses another language markdown
