@@ -16,4 +16,4 @@ jobs:
 
     - name: Test
       run: |
-        python3 new_radix_sort.py 
+        python3 radix_sort.py 
